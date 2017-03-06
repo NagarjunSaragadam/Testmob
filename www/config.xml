@@ -11,5 +11,5 @@
     <access origin="*" />
     <preference name="fullscreen" value="false" />
     <preference name="webviewbounce" value="true" />
-    <plugin name="com.megster.cordova.bluetoothserial" spec="0.3.3" source="pgb" />
+    <plugin name="cordova-plugin-bluetooth-serial" spec="0.3.3" source="pgb" />
 </widget>
