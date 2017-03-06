@@ -11,4 +11,5 @@
     <access origin="*" />
     <preference name="fullscreen" value="false" />
     <preference name="webviewbounce" value="true" />
+    <plugin name="org.apache.cordova.bluetooth-serial"/>
 </widget>
