@@ -7,7 +7,7 @@
 
 
 var app = {
-    macAddress: "64:89:9A:7B:D2:36",  // get your mac address from bluetoothSerial.list
+    macAddress:"00:00:00:00:00:01", // get your mac address from bluetoothSerial.list
     chars: "",
 
 /*
@@ -150,4 +150,3 @@ var app = {
         display.innerHTML = "";
     }
 };      // end of app
-
