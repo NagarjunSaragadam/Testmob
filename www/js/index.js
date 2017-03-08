@@ -7,7 +7,11 @@
 
 
 var app = {
+<<<<<<< HEAD
     macAddress:"00:00:00:00:00:01", // get your mac address from bluetoothSerial.list
+=======
+    macAddress:"FC:64:BA:1F:D2:16", // get your mac address from bluetoothSerial.list
+>>>>>>> origin/master
     chars: "",
 
 /*
